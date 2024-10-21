@@ -37,9 +37,11 @@
 
 
 ## Output
-![Screenshot 2024-10-21 103836](https://github.com/user-attachments/assets/6c0459c8-c595-4016-9d85-753985d01ecc)
-![Screenshot 2024-10-21 103806](https://github.com/user-attachments/assets/60a83c12-7cef-4bd8-bfa2-fa7e494b2b7e)
-![Screenshot 2024-10-21 103919](https://github.com/user-attachments/assets/1049b707-cba8-4091-9aeb-a7776710a940)
+![mech2](https://github.com/user-attachments/assets/0b452890-8b4a-4ad3-9f79-249025a12aba)
+![mech22](https://github.com/user-attachments/assets/b57d797b-5bec-4aa0-bcbd-9cdb83100162)
+![mech222](https://github.com/user-attachments/assets/62abc4a4-eda0-49c2-b0af-8e861c31e58e)
+
+
 
 
 
